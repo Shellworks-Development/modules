@@ -2,7 +2,7 @@
 	@class CutsceneModule
 	
 	Simple Cutscene module that is character based and modular
-	© 2025 Shellworks Development
+	Â© 2025 Shellworks Development
 	Licensed under MIT
 ]=]
 
