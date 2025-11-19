@@ -1,2 +1,2 @@
-# [Archives of our public module](/Mods)
-MIT Licensed
+# [Archives of our public modules](/Mods)
+Documentation included inside module
